@@ -1,4 +1,4 @@
-# Smart Attendance System for People with Disabilities
+# BlindSync-Smart Attendance System for People with Disabilities
 
 ## 📌 Problem Statement
 Traditional attendance systems are not accessible, secure, or reliable for people with disabilities. Proxy attendance, lack of location verification, and absence of inclusive interaction make existing systems ineffective. This project aims to build a smart, accessible, and secure attendance system using face capture, GPS verification, and chatbot-based interaction.
@@ -45,4 +45,3 @@ Traditional attendance systems are not accessible, secure, or reliable for peopl
 
 ---
 
-## 📂 Project Structure (High-Level)
